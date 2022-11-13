@@ -1,0 +1,14 @@
+[
+  {
+    "StreetAddress": "Milano",
+    "Name": "Aldo"
+  },
+  {
+    "StreetAddress": "Via Torino",
+    "Name": "Giovanni"
+  },
+  {
+    "StreetAddress": "Via Vicenza",
+    "Name": "Giacomo"
+  }
+]

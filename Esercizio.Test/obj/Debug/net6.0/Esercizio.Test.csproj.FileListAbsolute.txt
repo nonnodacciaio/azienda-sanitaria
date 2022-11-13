@@ -1,0 +1,15 @@
+C:\Users\nonno\Desktop\Nonnodacciaio\Projects\azienda-sanitaria\Esercizio.Test\bin\Debug\net6.0\Esercizio.Test.exe
+C:\Users\nonno\Desktop\Nonnodacciaio\Projects\azienda-sanitaria\Esercizio.Test\bin\Debug\net6.0\Esercizio.Test.deps.json
+C:\Users\nonno\Desktop\Nonnodacciaio\Projects\azienda-sanitaria\Esercizio.Test\bin\Debug\net6.0\Esercizio.Test.runtimeconfig.json
+C:\Users\nonno\Desktop\Nonnodacciaio\Projects\azienda-sanitaria\Esercizio.Test\bin\Debug\net6.0\Esercizio.Test.dll
+C:\Users\nonno\Desktop\Nonnodacciaio\Projects\azienda-sanitaria\Esercizio.Test\bin\Debug\net6.0\Esercizio.Test.pdb
+C:\Users\nonno\Desktop\Nonnodacciaio\Projects\azienda-sanitaria\Esercizio.Test\obj\Debug\net6.0\Esercizio.Test.csproj.AssemblyReference.cache
+C:\Users\nonno\Desktop\Nonnodacciaio\Projects\azienda-sanitaria\Esercizio.Test\obj\Debug\net6.0\Esercizio.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nonno\Desktop\Nonnodacciaio\Projects\azienda-sanitaria\Esercizio.Test\obj\Debug\net6.0\Esercizio.Test.AssemblyInfoInputs.cache
+C:\Users\nonno\Desktop\Nonnodacciaio\Projects\azienda-sanitaria\Esercizio.Test\obj\Debug\net6.0\Esercizio.Test.AssemblyInfo.cs
+C:\Users\nonno\Desktop\Nonnodacciaio\Projects\azienda-sanitaria\Esercizio.Test\obj\Debug\net6.0\Esercizio.Test.csproj.CoreCompileInputs.cache
+C:\Users\nonno\Desktop\Nonnodacciaio\Projects\azienda-sanitaria\Esercizio.Test\obj\Debug\net6.0\Esercizio.Test.dll
+C:\Users\nonno\Desktop\Nonnodacciaio\Projects\azienda-sanitaria\Esercizio.Test\obj\Debug\net6.0\refint\Esercizio.Test.dll
+C:\Users\nonno\Desktop\Nonnodacciaio\Projects\azienda-sanitaria\Esercizio.Test\obj\Debug\net6.0\Esercizio.Test.pdb
+C:\Users\nonno\Desktop\Nonnodacciaio\Projects\azienda-sanitaria\Esercizio.Test\obj\Debug\net6.0\Esercizio.Test.genruntimeconfig.cache
+C:\Users\nonno\Desktop\Nonnodacciaio\Projects\azienda-sanitaria\Esercizio.Test\obj\Debug\net6.0\ref\Esercizio.Test.dll

@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Esercizio": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "NullAddressIfNameNotFound": "false",
+        "JsonPersonPath": "Resources/persons.json"
+      }
+    }
+  }
+}
